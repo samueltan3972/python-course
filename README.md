@@ -6,7 +6,7 @@ I may use the content in this course in my blog post in the future. Maybe la, if
 
 Before we jump start, let’s start by answering some question… ~~[I am supposed to answer question like What is automation, Why Python, etc. in this section, since this is custom for Chin (I am lazy), we will skip this part]~~
 
-![python](assets/introduction-python.jpg)
+![python](./assets/introduction-python.jpg)
 
 ## Things to take note
 But there are some things I need you to know before we start:
