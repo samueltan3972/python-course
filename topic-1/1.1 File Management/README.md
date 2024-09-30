@@ -30,7 +30,7 @@ So now, you might ask why do we need to look at the file path first? Let’s get
 3. See [expected_output](exercise/expected_output/) folder to check on your answer.
 
 ### Challenge
-1. Download/Clone the repository, you challenge question is in the [challenge folder](challenge/question.txt).
+1. Download/Clone the repository, you challenge question is in the [challenge folder](challenge/question.md).
 2. Read the [question.md](challenge/question.md) for instruction.
 3. Write the code to complete the challenge, use the files in "images" folder for your challenge.
 4. Run [validate_answer.py](challenge/validate_answer.py) to validate your answer. It should pass all the tests.
